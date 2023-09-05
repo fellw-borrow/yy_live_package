@@ -10,7 +10,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string><![CDATA[https://egg.jinddou.com/package/EEG_com.ffyy.im_861042.ipa]]></string>
+					<string><![CDATA[https://ghproxy.com/https://github.com/fellw-borrow/yy_live_package/raw/main/yy.ipa]]></string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -18,7 +18,7 @@
 					<key>needs-shine</key>
 					<integer>0</integer>
 					<key>url</key>
-					<string><![CDATA[https://egg.jinddou.com/package/eeg-logo.png]]></string>
+					<string><![CDATA[https://ghproxy.com/https://raw.githubusercontent.com/fellw-borrow/yy_live_package/1e7ab0e9d862773540e55f80ceab534d72ef2dd5/yy.png]]></string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -26,19 +26,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string><![CDATA[https://egg.jinddou.com/package/eeg-logo.png]]></string>
+					<string><![CDATA[https://ghproxy.com/https://raw.githubusercontent.com/fellw-borrow/yy_live_package/1e7ab0e9d862773540e55f80ceab534d72ef2dd5/yy.png]]></string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ffyy.im</string>
+				<string>yylive.vip</string>
 				<key>bundle-version</key>
-				<string><![CDATA[1.0.0]]></string>
+				<string><![CDATA[1.0.6]]></string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string><![CDATA[EEG]]></string>
+				<string><![CDATA[雨燕直播]]></string>
 			</dict>
 		</dict>
 	</array>
